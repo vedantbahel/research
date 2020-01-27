@@ -1,3 +1,3 @@
 # Research
 
-![](/research/data/Getting Into Research!.png)
+![](/data/Getting Into Research!.png)
