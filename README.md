@@ -34,3 +34,26 @@ Research is
 * References
 
 
+## How to get it published?
+
+1. Sending it directly to reputed journals
+   * Features of a good journal
+     * Has ISSN or DOI number/code
+     * Indexed by SCI, Scopus, or Web of Science
+     * Approved by UGC or any other educational agency
+
+2. Sending it to journal via reputed Conferences
+   * Looking for IEEE, Springer, Elsevier or any such reputed conference
+   
+   
+## Looking for Travel Grant/ Funds 
+
+Following are some of the websites where you can try to get Research/Travel grant:
+* DST International Travel Grant (International Travel Support, ITS)
+* IBM Travel Grant for Resident INDIAN Students and Researchers
+* IEEE CIS Sponsered Travel Grant
+* IEEE Students Research Grants
+* AICTE Research Grant for Indian Students
+* SIAM Travel Grant
+* ICMR Travel Grant
+* Ratan Tata Research Travel Grant
