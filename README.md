@@ -6,6 +6,7 @@
 ## What is Research?
 
 Research is
+* Process to Convert Innovation to Documentation
 * Creativity to enhance knowledge
 * Heart of every discipline of science
 * Can be done on any topic
