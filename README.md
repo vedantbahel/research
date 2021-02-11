@@ -1,7 +1,5 @@
 # Research
 
-![](data/banner.png)
-
 
 ## What is Research?
 
