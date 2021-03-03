@@ -77,8 +77,9 @@ Many undergraduate people are in doubt whether to go for a research internship o
 * Celestini Program India - IIT Delhi (http://celestiniprojectindia.com/)
 * Precog Research group - IIIT Delhi (http://precog.iiitd.edu.in/openings/)
 * IIIT Delhi Research internships (https://www.iiitd.ac.in/placement/summer-internships)
+* MITACS Canada Globalink Research Internship Program (https://www.mitacs.ca/en/programs/globalink)
 * You can also apply under any professor by emailing them your interest
-* There are a lot more opportunities other than this.
+
 
 ## General Application Requirment
 
@@ -102,7 +103,7 @@ Requirement varies from internship to internship but some generic requirements a
 MORE POWER TO YOU!  
 HAPPY CODING!
 
-## THANK YOU
+## Thank you
 
 
 Check my Research Profile: https://scholar.google.com/citations?user=8In2z6QAAAAJ&hl=en
